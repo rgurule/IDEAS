@@ -1,0 +1,17 @@
+# Site Settings
+title: IDEAS productivity
+email: rgurule@lanl.gov
+description: >
+  IDEAS is a family of projects addressing challenges in software development productivity 
+  and software sustainabilty in computational science and engineering on high-performance 
+  computers.
+baseurl: "/ideas"
+url: "http://rgurule.github.io"
+twitter_username: rgurule
+github_username:  rgurule
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
